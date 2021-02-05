@@ -1,0 +1,10 @@
+body, body.pushable > .pusher {
+	background-color: #222222;
+	color: #fff;
+}
+
+.white.header { color: #FFF; }
+
+.second {
+	background-color: blue;
+}
